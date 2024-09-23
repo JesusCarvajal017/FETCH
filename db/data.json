@@ -1,0 +1,18 @@
+[
+    {
+        "nombres" : "Santiago",
+        "apellidos" : "riaño",
+        "edad": 18
+    },
+    {
+        "nombres" : "Francisco",
+        "apellidos" : "Morales",
+        "edad": 21
+    },
+    {
+        "nombres" : "Johan",
+        "apellidos" : "Cuellar",
+        "edad": 31
+    }
+
+]
